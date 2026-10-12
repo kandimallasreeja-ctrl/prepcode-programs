@@ -1,0 +1,4 @@
+
+
+any(["abc"])
+print(any)
